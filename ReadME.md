@@ -1,6 +1,9 @@
 
 # terraform-aws-vpc
 
+<img width="813" height="516" alt="image" src="https://github.com/user-attachments/assets/d8eba3b3-5d2c-4dec-aa20-8205cdf9c458" />
+
+
 Terraform template to provision a VPC and core networking components on AWS.
 
 terraform-aws-vpc/
