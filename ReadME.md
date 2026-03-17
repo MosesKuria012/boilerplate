@@ -1,6 +1,18 @@
 
 # terraform-aws-vpc
 
+terraform version
+
+Terraform v1.14.0
+on linux_amd64
++ provider registry.terraform.io/hashicorp/aws v6.36.0
+
+Your version of Terraform is out of date! The latest version
+is 1.14.7. You can update by downloading from https://developer.hashicorp.com/terraform/install
+
+
+aws sts get-caller-identity
+
 <img width="813" height="516" alt="image" src="https://github.com/user-attachments/assets/d8eba3b3-5d2c-4dec-aa20-8205cdf9c458" />
 
 
