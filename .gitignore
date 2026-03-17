@@ -4,5 +4,4 @@
 .terraform.lock.hcl
 *.auto.tfvars
 crash.log
-moses
-moses.pub
+
